@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @kaktus-w-blenderze
-- 👀 I’m interested in Programming and photography
-- 🌱 I’m currently learning Java script
-- 📫 How to reach me? Discord: KWB_#0347
+- 👋 Hi, I’m @xensio
+- 👀 I’m interested in Programming and urbex, parkour
+- 🌱 I’m currently learning html and css
+- 📫 How to reach me? Discord: xensio#0347
 
